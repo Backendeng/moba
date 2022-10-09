@@ -16,6 +16,8 @@ MOBA is an opportunity to get your feet wet with Phoenix LiveView (or even Elixi
 ### Requirements
  * C++ Serever
  * Unity Version 2017+
+ * Database
+ * Photon Server
 
 ### Setup
   
